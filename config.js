@@ -18,12 +18,12 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6289503657396']
-global.premium = ['6289503657396']
-global.meki = '6289503657396'
-global.ownerNumber = '6289503657396'
-global.packname = 'ZyyXtrime'
-global.author = 'REALZI - BOT'
+global.owner = ['6285849963373']
+global.premium = ['6285849963373']
+global.meki = '6285849963373'
+global.ownerNumber = '6285849963373'
+global.packname = 'Ramakontol'
+global.author = 'Shril - BOT'
 global.sessionName = 'Fauzi'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.Mode = 'Public'
@@ -46,7 +46,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 1000
+    free: 10
 }
 global.thumb = fs.readFileSync('./media/zyy.jpg')
 global.pathImg = fs.readFileSync('./media/gambar.jpg')
